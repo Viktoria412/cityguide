@@ -1,0 +1,14 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# API keys — не загружать в репозиторий
+# Замените YOUR_GOOGLE_MAPS_API_KEY в AndroidManifest.xml на свой ключ локально
